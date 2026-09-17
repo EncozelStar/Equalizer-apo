@@ -1,0 +1,20 @@
+Channel: ALL
+# Preamp: 100 dB
+Filter: ON HP Fc 811.02 Hz
+Filter: ON LS Fc 20000 Hz Gain 199 dB
+# Channel: ALL
+Filter: ON LSC Fc 20 Hz Gain 20 dB Q 0.3333
+Preamp: 7.6 dB
+Filter: ON PK Fc 20000 Hz Gain -20 dB Q 0.3333
+Filter: ON HPQ Fc 20 Hz Q 0.8372
+Filter: ON LPQ Fc 20000 Hz Q 0.3333
+Filter: ON PK Fc 20000 Hz Gain 4.7 dB Q 0.3333
+Filter: ON PK Fc 20000 Hz Gain -20 dB Q 4.4143
+Filter: ON HS Fc 19589.8 Hz Gain -20 dB
+Filter: ON PK Fc 20000 Hz Gain 20 dB Q 33.3333
+Filter: ON AP Fc 805.43 Hz Q 0.3333
+Filter: ON LPQ Fc 20000 Hz Q 33.3333
+Filter: ON PK Fc 937.63 Hz Gain -20 dB Q 0.3333
+Filter: ON PK Fc 20 Hz Gain 7.8 dB Q 0.4196
+Filter: ON PK Fc 24.61 Hz Gain 20 dB Q 0.3333
+Filter: ON PK Fc 112.47 Hz Gain -14.8 dB Q 0.3333
